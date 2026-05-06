@@ -47,7 +47,7 @@ Time Complexity: O(log n)
 
 ## D. Screenshots
 
-![Run ![result.png](../docs/result/result.png)
+![Result](docs/results/result.png)
 
 ---
 
